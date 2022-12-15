@@ -6,24 +6,27 @@
   --color-three: #1abc9c;
   --color-four: #16a085;
   --color-five: #2ecc71;
+  --white-color: #fff;
 
   /* fonts */
   --font-body: ;
 }
 
-*, ::before, ::after {
+*,
+::before,
+::after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5;
 }
 
 /* utilities */
-.center {
+.text-center {
   text-align: center;
 }
 
@@ -67,6 +70,22 @@ body {
   padding: 30px;
 }
 
+.p-7 {
+  padding: 35px;
+}
+
+.p-8 {
+  padding: 40px;
+}
+
+.p-9 {
+  padding: 45px;
+}
+
+.p-10 {
+  padding: 50px;
+}
+
 /* Margin */
 .m-1 {
   margin: 5px;
@@ -92,6 +111,21 @@ body {
   margin: 30px;
 }
 
+.m-7 {
+  margin: 35px;
+}
+.m-8 {
+  margin: 40px;
+}
+
+.m-9 {
+  margin: 45px;
+}
+
+.m-10 {
+  margin: 50px;
+}
+
 /* Margin Top */
 .m1-top {
   margin-top: 10px;
@@ -109,6 +143,10 @@ body {
   margin-top: 40px;
 }
 
+.m4-top {
+  margin-top: 50px;
+}
+
 /* FLex and Grid */
 .flex {
   display: flex;
@@ -119,22 +157,32 @@ body {
 }
 
 /* Colors */
-.cl-1 {
+.text-white {
+  color: var(--white-color);
+}
+
+.color-one {
   color: var(--color-one);
 }
 
-.cl-2 {
+.color-two {
   color: var(--color-two);
 }
 
-.cl-3 {
+.color-three {
   color: var(--color-three);
 }
 
-.cl-4 {
+.color-four {
   color: var(--color-four);
 }
 
-.cl-5 {
+.color-5 {
   color: var(--color-five);
+}
+
+/* Background-Colors */
+
+.bg-color-one {
+  background: var(--color-one);
 }
