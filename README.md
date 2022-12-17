@@ -4,7 +4,6 @@ So this will be a fun side project to work with CSS and SCSS
 
 ## Demo
 
-https://elidvenega.github.io/css_custom_framework/
 
 ## Installation
 
