@@ -2,6 +2,7 @@
   "name": "css_custom_framework",
   "version": "1.0.0",
   "description": "A custom framework",
+  "source": "src/index.html",
   "scripts": {
     "dev": "parcel src/index.html --port 3000",
     "build": "parcel build src/index.html"
