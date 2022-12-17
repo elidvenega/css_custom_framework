@@ -1,0 +1,25 @@
+{
+  "name": "css_custom_framework",
+  "version": "1.0.0",
+  "description": "A custom framework",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html --port 3000",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elidvenega/css_custom_framework.git"
+  },
+  "keywords": [],
+  "author": "Elid Venega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elidvenega/css_custom_framework/issues"
+  },
+  "homepage": "https://github.com/elidvenega/css_custom_framework#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2",
+    "parcel": "^2.8.2"
+  }
+}
