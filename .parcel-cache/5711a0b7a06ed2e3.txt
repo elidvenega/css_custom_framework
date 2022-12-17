@@ -22,7 +22,7 @@
 105C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\svgo\lib\svgo\css-select-adapter.js133157852032586836 0
 63C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\.cache133157843952717780 1
 102C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\ordered-binary\.idea\modules.xml133157851304168374 0
-69C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\package.json133157857505355654 0
+69C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\package.json133157864763740036 0
 112C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\@parcel\core\lib\requests\TargetRequest.js133157851339255848 0
 121C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133157851307165384 0
 124C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h133157851302394129 0
