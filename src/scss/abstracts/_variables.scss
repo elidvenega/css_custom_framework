@@ -1,4 +1,4 @@
-// Sass variables 
+// Sass variables
 
 /* variable colors  */
 $color-one: #3498db;
@@ -8,8 +8,47 @@ $color-four: #16a085;
 $color-five: #2ecc71;
 $white-color: #fff;
 
-//*********Background Colors*********
+.text-white {
+  color: $white-color;
+}
+
+/* Colors */
+
+.color-1 {
+  color: $color-one;
+}
+
+.color-2 {
+  color: $color-two;
+}
+
+.color-3 {
+  color: $color-three;
+}
+
+.color-4 {
+  color: $color-four;
+}
+
+.color-5 {
+  color: $color-five;
+}
+
+/* Background-Colors */
 
 .bg-1 {
   background: $color-one;
+}
+
+.bg-2 {
+  background: $color-two;
+}
+.bg-3 {
+  background: $color-three;
+}
+.bg-4 {
+  background: $color-four;
+}
+.bg-5 {
+  background: $color-five;
 }
