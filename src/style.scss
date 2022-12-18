@@ -1,2 +1,5 @@
-@use "./scss/body";
-@use "./scss/utilities";
+@use "./scss/abstracts/index" ;
+@use "./scss/abstracts/utilities";
+
+@use "./scss/layout/body";
+
