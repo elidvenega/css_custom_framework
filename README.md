@@ -17,7 +17,7 @@ https://css-custom-framework.vercel.app/
 ```bash
   cd css_custom_framework
   npm i
-  npm run dev
+  npm run start
 ```
 
 ## Tech Stack
