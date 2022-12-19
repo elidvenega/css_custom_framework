@@ -61,6 +61,34 @@
   padding: 0 40px;
 }
 
+.container-2 {
+  max-width: 1200px;
+  overflow: none;
+  margin: auto;
+  padding: 0 50px;
+}
+
+.xs-container {
+  max-width: 300px;
+  overflow: none;
+  margin: auto;
+  padding: 0 50px;
+}
+
+.sm-container {
+  max-width: 500px;
+  overflow: none;
+  margin: auto;
+  padding: 0 50px;
+}
+
+.md-container {
+  max-width: 750px;
+  overflow: none;
+  margin: auto;
+  padding: 0 50px;
+}
+
 .p-1 {
   padding: 5px;
 }

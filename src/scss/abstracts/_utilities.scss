@@ -1,4 +1,4 @@
-/* utilities */
+/* Center Text or Items */
 .text-center {
   text-align: center;
 }
@@ -11,11 +11,42 @@
   margin: auto;
 }
 
+// Containers
+
 .container {
   max-width: 1100px;
   margin: auto;
   overflow: none;
   padding: 0 40px;
+}
+
+.container-2 {
+  max-width: 1200px;
+  margin: auto;
+  overflow: none;
+  padding: 0 50px;
+}
+
+// Small Containers
+.xs-container {
+  max-width: 300px;
+  margin: auto;
+  overflow: none;
+  padding: 0 50px;
+}
+
+.sm-container {
+  max-width: 500px;
+  margin: auto;
+  overflow: none;
+  padding: 0 50px;
+}
+
+.md-container {
+  max-width: 750px;
+  margin: auto;
+  overflow: none;
+  padding: 0 50px;
 }
 
 /* Padding */
