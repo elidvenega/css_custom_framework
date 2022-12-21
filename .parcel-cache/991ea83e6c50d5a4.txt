@@ -33,7 +33,7 @@
 118C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133158042508256238 0
 104C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\@parcel\utils\test\urlJoin.test.js133158042508706806 0
 150C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133158042509562248 0
-61C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist133159005558652338 1
+61C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist133159661419908249 1
 127C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\@swc\helpers\src\_create_for_of_iterator_helper_loose.mjs133158042510363128 0
 74C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\csso133158042507722402 1
 113C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\caniuse-lite\data\features\input-pattern.js133158042514382098 0
@@ -100,7 +100,7 @@
 66C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\README.md133158042031986931 0
 89C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\is-number\README.md133158042500094607 0
 93C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\braces\lib\stringify.js133158042503380827 0
-71C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\src\index.html133158050060667968 0
+71C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\src\index.html133159661417278832 0
 88C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\tslib\package.json133158042502095665 0
 81C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\ansi-styles133158042500548617 1
 106C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\@parcel\source-map\dist\node.js.flow133158042498582090 0
@@ -137,7 +137,7 @@
 115C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\caniuse-lite\data\features\x-frame-options.js133158042521333341 0
 79C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\commander133158042502929654 1
 97C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\entities\lib\encode-trie.js133158042502435166 0
-93C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\src\scss\components\_typography.scss133158042032170224 0
+93C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\src\scss\components\_typography.scss133159659785221109 0
 157C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down133158042510034240 1
 89C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\css-tree\lib\parser133158042510080316 1
 106C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\@swc\helpers\lib\_super_prop_base.js133158042508528306 0
@@ -1813,7 +1813,7 @@
 89C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\@parcel\workers\lib133158042507069409 1
 108C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\@parcel\core\src\public\BundleGroup.js133158042507366511 0
 92C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\mdn-data\l10n\css.json133158042503428679 0
-80C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist\index.b2d9cf43.css133159005558493828 0
+80C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist\index.b2d9cf43.css133159660188996097 0
 92C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\mdn-data\l10n\index.js133158042500986217 0
 101C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\caniuse-lite\data\regions\PK.js133158042516486796 0
 108C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\@parcel\transformer-html\lib\inline.js133158042501724961 0
@@ -2614,7 +2614,7 @@
 99C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\css-tree\lib\lexer\generic.js133158042507778659 0
 82C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\@swc\helpers133158042509650561 1
 124C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\@parcel\core\test\fixtures\custom-targets\package.json133158042511235317 0
-98C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist\css_custom_framework.59712999.js.map133158050062081469 0
+98C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist\css_custom_framework.59712999.js.map133159661418876562 0
 106C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\css-tree\lib\lexer\prepare-tokens.js133158042509874599 0
 98C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\@parcel\workers\src\Trace.js133158042506795061 0
 101C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\css-tree\lib\generator\index.js133158042508152517 0
@@ -4348,8 +4348,8 @@
 83C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\.bin\svgo.cmd133158042522038557 0
 81C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\.bin\terser133158042522048608 0
 85C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\node_modules\.bin\terser.cmd133158042522038557 0
-94C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist\css_custom_framework.59712999.js133158050062011243 0
+94C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist\css_custom_framework.59712999.js133159661418807383 0
 105C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist\css_custom_framework.59712999.js.map.4204.a133158046308446865 0
 84C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist\index.85a0a5be.css.map133158042032019858 0
-84C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist\index.b2d9cf43.css.map133159005558627763 0
-72C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist\index.html133158050061522711 0
+84C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist\index.b2d9cf43.css.map133159660189041843 0
+72C:\Users\eli_v\OneDrive\Desktop\css\css_custom_framework\dist\index.html133159661419895963 0

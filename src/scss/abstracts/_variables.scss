@@ -1,6 +1,6 @@
-// Sass variables
+/*******  Sass variables *******/
 
-/* variable colors  */
+/******* variable colors  *******/
 $color-one: #3498db;
 $color-two: #2980b9;
 $color-three: #1abc9c;
@@ -12,25 +12,25 @@ $white-color: #fff;
   color: $white-color;
 }
 
-/* Colors */
+/******* text-colors  *******/
 
-.color-1 {
+.text-color-1 {
   color: $color-one;
 }
 
-.color-2 {
+.text-color-2 {
   color: $color-two;
 }
 
-.color-3 {
+.text-color-3 {
   color: $color-three;
 }
 
-.color-4 {
+.text-color-4 {
   color: $color-four;
 }
 
-.color-5 {
+.text-color-5 {
   color: $color-five;
 }
 
